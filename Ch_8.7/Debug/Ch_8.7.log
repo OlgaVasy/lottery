@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\valued customer\documents\college\c++\ch_8.7\ch_8.7\source.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\valued customer\documents\college\c++\ch_8.7\ch_8.7\source.cpp(12): warning C4101: 'temp': unreferenced local variable
+  Ch_8.7.vcxproj -> C:\Users\Valued Customer\Documents\College\C++\Ch_8.7\Debug\Ch_8.7.exe
+  Ch_8.7.vcxproj -> C:\Users\Valued Customer\Documents\College\C++\Ch_8.7\Debug\Ch_8.7.pdb (Full PDB)
